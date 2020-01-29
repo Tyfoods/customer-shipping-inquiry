@@ -1,0 +1,62 @@
+/* FOR DESKTOP SIZE */
+@media only screen and (min-width: 1208px) {
+  /* FOR DESKTOP SIZE*/
+
+
+/* Select message above CSI Form*/
+#csi-no-shipping-method-message {
+  width: 200%;
+  position: relative;
+  left: -100%;
+  
+}
+/* Select all inputs in main CSI form */
+#csi_main_form {
+  width: 100%;
+  background-color: #ffffff;
+  left: -30%;
+  position: relative;
+}
+#mailCSI {
+  width: 100%;
+}
+#addressCSI {
+  width: 100%;
+}
+#notesCSI  {
+  width: 100%;
+}
+}
+
+/* THIS IS A TEST COMMENT!!!*/
+
+/* FOR MOBILE SIZE */
+@media only screen and (max-width: 1207px) {
+  /* FOR MOBILE SIZE*/
+
+/* Select message above CSI Form*/
+#csi-no-shipping-method-message {
+    width: 130%;
+    position: relative;
+    left: -167%;
+  
+}
+/* Select all inputs in main CSI form */
+#csi_main_form {
+    width: 100%;
+    background-color: #ffffff;
+    left: -140%;
+    position: relative;
+}
+#mailCSI {
+  width: 100%;
+}
+#addressCSI {
+  width: 100%;
+}
+#notesCSI  {
+  width: 100%;
+}
+}
+
+
