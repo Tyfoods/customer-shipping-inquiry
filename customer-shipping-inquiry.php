@@ -4,7 +4,7 @@ Plugin Name: Customer Shipping Inquiry
 Plugin URI: https://www.propdanceculture.com
 Description: Often times we do not set up shipping for every possible country. This discourages customers from countries who we have not set up shipping for. This plugin prompts these customers to send their address information and email so that we can set up their shipping and therefore achieve a higher conversion rate.
 Author: TyFoods
-Author URI: https://www.propdanceculture.com/profile/?tyfooodsgmail-com-2/
+Author URI: https://www.tyfoodsforthought.com/
 Version: 1.0.0
 */
 
